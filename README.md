@@ -1,5 +1,7 @@
-# The project title
+# Exoplanets exploration
 ***
+
+<img src="exoplanets.png" alt="Exoplanets" width="400">
 
 ### Author: Alexander K.
 
