@@ -1,7 +1,7 @@
 # Exoplanets exploration
 ***
 
-<img src="exoplanets.png" alt="Exoplanets" width="400">
+<img src="exoplanets.png" alt="Exoplanets" width="480">
 
 ### Author: Alexander K.
 
